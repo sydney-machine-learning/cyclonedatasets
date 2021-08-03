@@ -15,12 +15,11 @@ Cyclone datasets
 * Arpit Kapoor (UNSW) (Data processing code)
 
 ## Projects
-
-* [Multi-step cyclone wind intensity prediction using ensemble deep learning](https://github.com/sydney-machine-learning/cyclonewindintensity-ensembledeeplearning)
-* [Cyclone genesis and intensity prediction for next decade using deep learning and  global circulation models](https://github.com/sydney-machine-learning/cyclonecategory_GCMs)
-* [Cyclone category and rapid intensification prediction using GAN powered deep learning](https://github.com/sydney-machine-learning/cyclone_deeplearning)
-* [Matrix recurrent neural networks](https://github.com/sydney-machine-learning/Matrix_LSTM)
-* [Variational matrix neural networks for cyclone track prediction](https://github.com/sydney-machine-learning/BayesianMatrixNeuralNetworks)
+* [Cyclone genesis and intensity prediction for next decade using deep learning and  global circulation models](https://github.com/sydney-machine-learning/cyclonecategory_GCMs) Nandini Ramesh,  Aadarsh Ashok, Anshuka Nand   and Rohitash Chandra
+* [Cyclone category and rapid intensification prediction using GAN powered deep learning](https://github.com/sydney-machine-learning/cyclone_deeplearning) Anshuka Nand, Amandeep Singh, and Rohitash Chandra
+* [Multi-step cyclone wind intensity prediction using ensemble deep learning](https://github.com/sydney-machine-learning/cyclonewindintensity-ensembledeeplearning)    Rohitash Chandra, Amandeep Singh, and Aadarsh Ashok
+* [Matrix recurrent neural networks](https://github.com/sydney-machine-learning/Matrix_LSTM) Arpit Kapoor and Anshul Negi, and Rohitash Chandra
+* [Variational matrix neural networks for cyclone track prediction](https://github.com/sydney-machine-learning/BayesianMatrixNeuralNetworks) Jiaxi Zhao and Rohitash Chandra
 
 ## Publications 
 
