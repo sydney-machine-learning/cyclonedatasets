@@ -12,7 +12,7 @@ Cyclone datasets
 * Anshuka Nand (UNSW)
 * Aadarsh Ashok (Manipal Institude of Technology)
 * Nandini Ramesh (University of Sydney)
-* Arpik Kapoor (UNSW) (Data processing code)
+* Arpit Kapoor (UNSW) (Data processing code)
 
 ## Projects
 
