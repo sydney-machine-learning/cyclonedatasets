@@ -12,13 +12,12 @@ Cyclone datasets
 * Aadarsh Ashok (Manipal Institude of Technology)
 * Nandini Ramesh (University of Sydney)
 * Arpit Kapoor (UNSW) (Data processing code)
+* Albert Demskoy (UNSW)
 
 ## Projects
 * [Cyclone genesis and intensity prediction for next decade using deep learning and  global circulation models](https://github.com/sydney-machine-learning/cyclonecategory_GCMs) Nandini Ramesh,  Aadarsh Ashok,   and Rohitash Chandra
-* [Cyclone category and rapid intensification prediction using GAN powered deep learning](https://github.com/sydney-machine-learning/cyclone_deeplearning)   Amandeep Singh, and Rohitash Chandra
-* [Multi-step cyclone wind intensity prediction using ensemble deep learning](https://github.com/sydney-machine-learning/cyclonewindintensity-ensembledeeplearning)    Rohitash Chandra, Amandeep Singh, and Aadarsh Ashok
-* [Matrix recurrent neural networks](https://github.com/sydney-machine-learning/Matrix_LSTM) Arpit Kapoor and Anshul Negi, and Rohitash Chandra
-* [Variational matrix neural networks for cyclone track prediction](https://github.com/sydney-machine-learning/BayesianMatrixNeuralNetworks) Jiaxi Zhao and Rohitash Chandra
+* [Cyclone category and rapid intensification prediction using GAN-powered deep learning](https://github.com/sydney-machine-learning/cyclone_deeplearning)   Amandeep Singh, and Rohitash Chandra
+* [Multi-step cyclone wind intensity prediction using ensemble deep learning](https://github.com/sydney-machine-learning/cyclonewindintensity-ensembledeeplearning)    Rohitash Chandra, Amandeep Singh, and Aadarsh Ashok 
 
 ## Publications 
 
