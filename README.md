@@ -9,11 +9,11 @@ Cyclone datasets
 
 * Rohitash Chandra  (UNSW) (rohitash.chandra at unsw.edu.au)
 * Amandeep Singh (IIT Bombay) 
-* Aadarsh Ashok (Manipal Institude of Technology)
-* Nandini Ramesh (University of Sydney)
-* Arpit Kapoor (UNSW) (Data processing code)
+* Aadarsh Ashok (Manipal Institute of Technology, India)
+* Nandini Ramesh (CSIRO)
+* Arpit Kapoor (UNSW)  
 * Albert Demskoy (UNSW)
-* Vamshika Sutar (IIT Bombay)
+* Vamshika Sutar (IIT Bombay, India)
 
 ## Projects
 * [Cyclone genesis and intensity prediction for next decade using deep learning and  global circulation models](https://github.com/sydney-machine-learning/cyclonecategory_GCMs) Nandini Ramesh,  Aadarsh Ashok,   and Rohitash Chandra
