@@ -13,6 +13,7 @@ Cyclone datasets
 * Nandini Ramesh (University of Sydney)
 * Arpit Kapoor (UNSW) (Data processing code)
 * Albert Demskoy (UNSW)
+* Vamshika Sutar (IIT Bombay)
 
 ## Projects
 * [Cyclone genesis and intensity prediction for next decade using deep learning and  global circulation models](https://github.com/sydney-machine-learning/cyclonecategory_GCMs) Nandini Ramesh,  Aadarsh Ashok,   and Rohitash Chandra
