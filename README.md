@@ -1,5 +1,4 @@
-# cyclonedatasets
-Cyclone datasets 
+#  Cyclone intensity and trajectory dataset 
 
 ## Source
 [JTWC Website](https://www.metoc.navy.mil/jtwc/jtwc.html?best-tracks)
